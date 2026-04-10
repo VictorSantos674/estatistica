@@ -1,0 +1,4 @@
+Probabilidade,Valor,Percentual
+P(Falha),0.48,48.00%
+P(Falha | Forn1),0.5714,57.14%
+P(Falha ou Forn1),0.72,72.00%
